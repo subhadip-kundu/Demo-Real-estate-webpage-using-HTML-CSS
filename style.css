@@ -197,6 +197,9 @@ main{
     margin-left: 103px;
     box-shadow: white 40px 37px 0px -8px;
 }
+.mid h1, .mid p{
+    color: black;
+}
 .subscribe{
     max-height: 340px;
     /* overflow: hidden; */
